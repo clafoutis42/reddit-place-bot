@@ -1,0 +1,10 @@
+*.pyc
+.coverage
+
+*.egg-info
+
+.env
+
+.idea
+
+*.swp
